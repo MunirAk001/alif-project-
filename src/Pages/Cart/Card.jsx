@@ -1,11 +1,4 @@
 import React, { useEffect, useState } from "react";
-import hqd from "../../assets/hqd1.svg";
-import hgr from "../../assets/hgr.svg";
-import zvezda from "../../assets/zvezda.svg";
-import moshin from "../../assets/iconmoshin.svg";
-import strelka from "../../assets/strelka.svg";
-import FavoriteBorderIcon from "@mui/icons-material/FavoriteBorder";
-import FavoriteIcon from "@mui/icons-material/Favorite";
 
 
 
